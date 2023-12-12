@@ -1,0 +1,4 @@
+../Bsp/stepper_motor.c:29:23:StepMot_create	2
+../Bsp/stepper_motor.c:45:13:microDelay	3
+../Bsp/stepper_motor.c:55:6:StepMot_Steps	6
+../Bsp/stepper_motor.c:85:13:stepMotor	5
